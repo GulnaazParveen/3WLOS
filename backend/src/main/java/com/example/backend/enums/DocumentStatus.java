@@ -4,5 +4,7 @@ public enum DocumentStatus {
     PENDING,
     UPLOADED,
     VERIFIED,
-    REJECTED
+    REJECTED,
+    // New status for system-generated PDFs
+    GENERATED
 }

@@ -4,5 +4,9 @@ public enum DocumentType {
     AADHAAR,
     AADHAR,
     PAN,
-    PASSPORT
+    PASSPORT,
+
+     // New document types for Module 4
+    KFS,
+    AGREEMENT
 }
